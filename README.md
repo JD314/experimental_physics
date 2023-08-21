@@ -5,8 +5,10 @@
 ----
 <div align="right">
 <font size=3>
-José David Bernal Restrepo <br>
-
+José David Bernal Restrepo <br><br>
+  
 </font>
 </div>
+
+
 Repository created to share all my assignments completed in the experimental physics laboratories at the University of Antioquia during my undergraduate studies in Physics
